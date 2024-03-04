@@ -1,5 +1,6 @@
-* completeness: 
-* start date: 3/3/2023
+* completeness: 100%
+* start date: 3/3/2024
+* finished date: 3/4/2024
 * Youtube link: https://www.youtube.com/watch?v=-42K44A1oMA
 * setup to run again:
   1. a free mongodb server
